@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: myPool
+pool: myPool2
   
 
 steps:
