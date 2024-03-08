@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: virtualMachineScaleSet
+pool: virtualMachineScaleSet2
   
 
 steps:
